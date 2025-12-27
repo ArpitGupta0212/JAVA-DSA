@@ -1,4 +1,4 @@
-public class binary_search_array {
+public class binary_search {
     public static int binary(int num[],int key){
         int start=0,end=num.length-1;
         while (start<=end) {
